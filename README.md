@@ -1,2 +1,2 @@
 # lab2
-![Screenshot](https://www.stickpng.com/img/icons-logos-emojis/tech-companies/git-full-logo)
+![Screenshot](https://git-scm.com/images/logos/2color-lightbg@2x.png)
